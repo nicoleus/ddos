@@ -1,5 +1,4 @@
-#!/usr/bin/python
-# Console colors
+
 N  = '\033[0m'    # normal
 R  = '\033[1;31m' # red
 Y  = '\033[1;33m' # yellow
