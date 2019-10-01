@@ -1,4 +1,4 @@
-<?php
+
 $rhversion = "2.0.0";
 $white = "\e[97m";
 $black = "\e[30m\e[1m";
